@@ -1,0 +1,16 @@
+{
+    "name": "sergey/shafler",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sergey Lunev",
+            "email": "sergey@lunyov.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
