@@ -1,4 +1,4 @@
-#Deck shuffler
+## Deck shuffler
 
 This is just small experiment for implementing different ways of shuffling decks.
 
